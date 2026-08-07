@@ -35,7 +35,7 @@ int main(){
   
   //note as the char data type has memory lenght of 1 byte and int data type has memoy lenght of 4 byte
   //then if the value i given greater than 1yte to cha then takes the last 8itss=1 yte of int data type as input 
-  //as in elow case same is happening due to which "@" will e the output
+  //as in elow case same is happening due to which "@" will be the output
   char m = 123456;
   
   cout << m <<'\n';
